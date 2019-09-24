@@ -1,0 +1,6 @@
+Part 1.1 - 
+	Current System Time: 1566932386702
+	
+Part 1.2 - 
+	Summation for number 20 is: 210
+	Summation for number 10 is: 1023
